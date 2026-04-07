@@ -1,0 +1,9 @@
+Tue, Apr  7, 2026  8:49:26 AM - Filen 'Hello-bash.sh' finns.
+-rwxr-xr-x 1 Sebastian 197121 54 Mar 31 10:31 Hello-bash.sh
+Tue, Apr  7, 2026  8:50:14 AM - Användaren 'Sebastian' finns.
+Tue, Apr  7, 2026  8:50:14 AM - Kontroller slutförda.
+04/07/2026 09:12:19 - Filen 'Hello-bash.sh' finns.
+Archive
+
+04/07/2026 09:12:26 - Användaren 'Sebastian' finns.
+04/07/2026 09:12:26 - Kontroller slutförda.
