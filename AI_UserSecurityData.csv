@@ -1,0 +1,7 @@
+username,last_login_days,status,role,failed_logins,mfa_enabled,country
+anna,5,active,user,1,true,SE
+erik,120,active,admin,4,false,SE
+david,200,disabled,user,0,false,SE
+lisa,45,active,user,7,true,RU
+omar,10,active,admin,8,false,US
+eva,400,active,user,0,false,SE
