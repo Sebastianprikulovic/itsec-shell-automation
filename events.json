@@ -1,0 +1,11 @@
+{
+ "events": [
+  {"user": "anna", "event": "failed_login"},
+  {"user": "anna", "event": "failed_login"},
+  {"user": "sofia", "event": "login"},
+  {"user": "david", "event": "failed_login"},
+  {"user": "erik", "event": "failed_login"},
+  {"user": "erik", "event": "failed_login"},
+  {"user": "erik", "event": "failed_login"}
+ ]
+}

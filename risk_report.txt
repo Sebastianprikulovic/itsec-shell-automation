@@ -1,0 +1,5 @@
+anna: MEDIUM (fails: 2, status: active)
+erik: HIGH (fails: 3, status: active)
+david: CRITICAL (fails: 1, status: disabled)
+sofia: LOW (fails: 0, status: active)
+jonas: LOW (fails: 0, status: disabled)
