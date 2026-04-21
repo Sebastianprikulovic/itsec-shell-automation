@@ -1,0 +1,5 @@
+username,fullname,department,role,enabled
+anna,Anna Svensson,HR,user,true
+erik,Erik Larsson,IT,admin,true
+lisa,Lisa Holm,Finance,user,false
+omar,Omar Nilsson,Sales,user,true

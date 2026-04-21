@@ -1,0 +1,5 @@
+"Username","Score","Risk","Findings"
+"anna","75","HIGH","Nattlig inloggning, Många misslyckade inloggningar, Kombinationsregel: natt + brute force"
+"erik","20","LOW","Stor filåtkomst"
+"lisa","40","MEDIUM","Nattlig inloggning, Stor filåtkomst"
+"omar","0","LOW",""

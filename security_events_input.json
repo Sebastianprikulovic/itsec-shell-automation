@@ -1,0 +1,66 @@
+[
+  {
+    "username": "anna",
+    "event_type": "login",
+    "status": "success",
+    "timestamp": "2026-04-20T23:30:00",
+    "file_path": "",
+    "bytes_accessed": 0
+  },
+  {
+    "username": "anna",
+    "event_type": "login",
+    "status": "failed",
+    "timestamp": "2026-04-20T23:10:00",
+    "file_path": "",
+    "bytes_accessed": 0
+  },
+  {
+    "username": "anna",
+    "event_type": "login",
+    "status": "failed",
+    "timestamp": "2026-04-20T23:12:00",
+    "file_path": "",
+    "bytes_accessed": 0
+  },
+  {
+    "username": "anna",
+    "event_type": "login",
+    "status": "failed",
+    "timestamp": "2026-04-20T23:15:00",
+    "file_path": "",
+    "bytes_accessed": 0
+  },
+  {
+    "username": "erik",
+    "event_type": "file_access",
+    "status": "success",
+    "timestamp": "2026-04-20T14:00:00",
+    "file_path": "C:\\Sensitive\\payroll.xlsx",
+    "bytes_accessed": 2500000
+  },
+  {
+    "username": "lisa",
+    "event_type": "login",
+    "status": "success",
+    "timestamp": "2026-04-20T02:20:00",
+    "file_path": "",
+    "bytes_accessed": 0
+  },
+  {
+    "username": "lisa",
+    "event_type": "file_access",
+    "status": "success",
+    "timestamp": "2026-04-20T02:25:00",
+    "file_path": "C:\\Finance\\secret_budget.xlsx",
+    "bytes_accessed": 3000000
+  },
+  {
+    "username": "omar",
+    "event_type": "login",
+    "status": "success",
+    "timestamp": "2026-04-20T09:10:00",
+    "file_path": "",
+    "bytes_accessed": 0
+  }
+]
